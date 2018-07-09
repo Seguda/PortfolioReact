@@ -1,0 +1,39 @@
+.about {
+  color: rgb(10, 3, 3);
+  width: 80%;
+  margin: 4em auto;
+  padding: 0 0;
+}
+.about-heading {
+  font-size: 3em;
+  font-weight: 200px;
+
+  margin: 0 auto;
+  text-transform: uppercase;
+  text-align: center;
+}
+.about-text {
+  margin: 0 auto;
+  width: 90%;
+  text-align: left;
+}
+.resume {
+  /* text-decoration: none; */
+  font-weight: bold;
+  color: rgb(10, 3, 3);
+}
+
+@media only screen and (max-width: 1000px) {
+  .about {
+    padding: 5% 10% 2% 10%;
+    font-size: 0.9em;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .about {
+    padding: 5% 10% 2% 10%;
+    font-size: 0.7em;
+  }
+}

@@ -1,0 +1,47 @@
+.nav {
+  height: 55px;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  top: 0%;
+  line-height: 1.9;
+  z-index: 2;
+}
+
+.nav-link {
+  padding-right: 30px;
+  text-decoration: underline;
+  pointer: cursor;
+  color: white;
+  padding: 4em;
+}
+
+@media only screen and (max-width: 1000px) {
+  .nav {
+    line-height: 2.3;
+  }
+
+  .nav-link {
+    padding: 20px;
+    font-size: 1em;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .nav {
+    line-height: 1.2;
+  }
+  .nav-link {
+    padding: 10px;
+    font-size: 1em;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .nav {
+    padding-top: 1.5%;
+    line-height: 0.7;
+  }
+  .nav-link {
+    font-size: 1em;
+  }
+}
