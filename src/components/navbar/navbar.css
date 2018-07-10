@@ -11,7 +11,7 @@
 .nav-link {
   padding-right: 30px;
   text-decoration: underline;
-  pointer: cursor;
+  cursor: pointer;
   color: white;
   padding: 4em;
 }

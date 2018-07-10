@@ -31,13 +31,16 @@
   display: inline-block;
   margin: 0.5em;
   height: 4em;
-  width: 4em;
+  width: 6em;
   border: none;
   display: table-cell;
   vertical-align: middle;
-  padding: 1% 2%;
+  /* padding: 1% 2%; */
+  padding: 2px 2px;
   text-align: center;
   text-decoration: none;
+  color: rgb(102, 2, 2);
+  font-weight: bold;
 }
 .links {
   display: flex;

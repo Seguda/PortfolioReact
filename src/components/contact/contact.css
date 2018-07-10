@@ -25,12 +25,14 @@
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  text-decoration: none;
 }
 
 .contact-link {
   margin-left: auto;
   margin-right: auto;
+  color: rgb(102, 2, 2);
+  font-weight: bold;
+  text-decoration: none;
 }
 .icons {
   display: flex;
