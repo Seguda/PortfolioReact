@@ -145,7 +145,7 @@ export default function Projects() {
             <a
               className="link"
               target="_blank"
-              href="https://elastic-brown-9b73b0.netlify.com/recipes"
+              href="https://shareyouryummies.netlify.com/"
             >
               Live App
             </a>
