@@ -1,5 +1,5 @@
 .nav {
-  height: 40px;
+  height: 45px;
   width: 100%;
   background-color: black;
   position: fixed;
@@ -10,10 +10,15 @@
 
 .nav-link {
   padding-right: 30px;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: bold;
   cursor: pointer;
   color: white;
   padding: 4em;
+}
+.nav a {
+  padding-top: 15px;
+  display: inline-block;
 }
 
 @media only screen and (max-width: 1000px) {

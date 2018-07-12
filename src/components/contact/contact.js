@@ -24,7 +24,7 @@ export default function ContactInfo() {
         >
           <img src={email} alt="email" className="icon" />
 
-          <p>Email</p>
+          {/* <p>Email</p> */}
         </a>
         <a
           href="https://www.linkedin.com/in/seha-gulnar-dalay-03073415/"
@@ -32,7 +32,7 @@ export default function ContactInfo() {
           className="contact-link"
         >
           <img src={linkedIn} alt="linkedIn" className="icon" />
-          <p>LinkedIn</p>
+          {/* <p>LinkedIn</p> */}
         </a>
 
         <a
@@ -41,7 +41,7 @@ export default function ContactInfo() {
           className="contact-link"
         >
           <img src={github} alt="github" className="icon" />
-          <p>Github</p>
+          {/* <p>Github</p> */}
         </a>
         <a
           href="https://angel.co/seha-gulnar-dalay/"
@@ -49,7 +49,7 @@ export default function ContactInfo() {
           className="contact-link"
         >
           <img src={angelist} alt="angelist" className="icon" />
-          <p>AngelList</p>
+          {/* <p>AngelList</p> */}
         </a>
       </div>
     </section>

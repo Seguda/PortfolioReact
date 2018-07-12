@@ -24,11 +24,11 @@ export default function Projects() {
           </p>
           <p>
             Technologies used:
-            <strong>React / Redux</strong>,
-            <strong>PostgreSQL</strong>,
-            <strong>Node</strong>,
-            <strong>Sass</strong> and
-            <strong>Heroku</strong> for hosting.
+            <strong> React/Redux, </strong>
+            <strong>PostgreSQL, </strong>
+            <strong>Node, </strong>
+            <strong>Sass, </strong> and
+            <strong> Heroku </strong> for hosting.
           </p>
 
           <p className="links">
@@ -80,12 +80,12 @@ export default function Projects() {
 
           <p>
             Technologies used:
-            <strong>React</strong>,
-            <strong>MongoDB</strong>,
-            <strong>mLab</strong>,
-            <strong>Node</strong>,
-            <strong>Netlify</strong> and
-            <strong>Heroku</strong> for hosting.
+            <strong>React/Redux,</strong>
+            <strong>MongoDB, </strong>
+            <strong>mLab, </strong>
+            <strong>Node, </strong>
+            <strong>Netlify, </strong>and
+            <strong> Heroku</strong> for hosting.
           </p>
 
           <p className="links">
@@ -133,12 +133,12 @@ export default function Projects() {
 
           <p>
             Technologies used:
-            <strong>React</strong>,
-            <strong>MongoDB</strong>,
-            <strong>mLab</strong>,
-            <strong>Node</strong>,and
-            <strong>Netlify</strong> and
-            <strong>Heroku</strong> for hosting.
+            <strong>React/Redux,</strong>
+            <strong>MongoDB, </strong>
+            <strong>mLab, </strong>
+            <strong>Node, </strong>
+            <strong>Netlify, </strong>and
+            <strong> Heroku</strong> for hosting.
           </p>
 
           <p className="links">
