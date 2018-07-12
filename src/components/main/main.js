@@ -24,8 +24,6 @@ export default function Main() {
             </h1>
           </div>
         </header>
-
-        <img src="images/me.jpg" alt="" />
       </div>
     </section>
   );
