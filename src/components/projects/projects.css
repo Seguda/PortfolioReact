@@ -40,18 +40,17 @@
   height: 2em;
   width: 6em;
   border: none;
-  display: table-cell;
-  vertical-align: middle;
-  padding: 2px 2px;
+  padding: 3px 2px;
   text-align: center;
   text-decoration: none;
-  color: rgb(102, 2, 2);
+  color: rgb(22, 21, 21);
   font-weight: bold;
   -webkit-box-shadow: 0 7px 4px #777;
   -moz-box-shadow: 0 7px 4px #777;
   box-shadow: 0 7px 4px #777;
   border-radius: 10px;
-  border: 2px solid white;
+  border: 1px solid #777;
+  background-color: rgb(240, 234, 234);
 }
 .links {
   display: flex;
