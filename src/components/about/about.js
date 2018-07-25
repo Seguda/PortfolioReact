@@ -8,14 +8,13 @@ export default function AboutMe() {
 
       <div className="about-text">
         <p>
-          I'm a full-stack web developer from Boston, MA. I love developing apps
+          I'm a front end web developer from Boston, MA. I love developing apps
           with React and learning new tricks in CSS.
         </p>
         <p>
           Being able to build any idea you can think of is fascinating. This
           feeling for building, creating something out of nothing is what
-          eventually set me off on a path to becoming a full-stack web
-          developer.
+          eventually set me off on a path to becoming a front end web developer.
         </p>
 
         <p>
